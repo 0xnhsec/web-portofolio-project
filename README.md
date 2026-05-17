@@ -140,3 +140,11 @@ full-build/
 
 </details>
 
+<details>
+<summary>Minimalist</summary>
+<img src="nigga.png" />
+
+
+</details>
+
+
